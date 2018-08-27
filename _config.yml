@@ -1,1 +1,4 @@
 theme: jekyll-theme-tactile
+# SITE CONFIGURATION
+baseurl: ""
+url: "https://johnny901.github.io"
