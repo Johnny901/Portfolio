@@ -7,7 +7,7 @@ The user is able to ;
  - Clicking on the contact results in the provision of a more detailed description of the person.
  - Content is accessed from JSON formatted information using jQuery in order to view additional related people.
  
- ![Image](src)
+ ![Image](Address Book.png)
  
  # Car Insurance Quote Form
  
