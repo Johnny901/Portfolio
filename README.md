@@ -9,7 +9,7 @@ The user is able to ;
  
  ![Image](AddressBook.png)
  
- # Car Insurance Quote Form
+ ## Car Insurance Quote Form
  
 This web page allows a car driver to review their ‘saved’ quotation for car insurance renewal. The page includes jQuery / jQuery UI components that offer the following functionality;
 - Use of HTML5 doc type and associated elements and appropriate validation of input
