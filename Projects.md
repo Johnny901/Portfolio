@@ -7,7 +7,7 @@ The user is able to ;
  - Clicking on the contact results in the provision of a more detailed description of the person.
  - Content is accessed from JSON formatted information using jQuery in order to view additional related people.
  
- [Image](Address Book)
+ ![Image](AddressBook.png)
  
  # Car Insurance Quote Form
  
@@ -31,3 +31,5 @@ The website contains the following features using these technologies;
 - User Login functionality
 - Tab and table functionality
 - Database display and manipulation with user restrictions.
+
+ ![Image](FinalLayoutMusicpage.PNG)
